@@ -1,21 +1,21 @@
-#  Wania Yaqoob
+#  👩‍💻Wania Yaqoob
 
-##  Objective
+## 🎯 Objective
 
 Aspiring Computer Science student focused on developing strong technical and problem-solving skills. Passionate about gaining hands-on experience through real-world software projects and continuously expanding knowledge in the field of computing.
 
 ---
 
-## Contact Information
+## 📍Contact Information
 
 *  Address: Green Villas Snobercity, Lane 05, House G-60, Adyala Road, Rawalpindi
 *  Email: [waniayaqb@gmail.com](mailto:waniayaqb@gmail.com)
 
 ---
 
-##  Skills
+##  🛠️Skills
 
-###  Programming Languages
+###  💻Programming Languages
 
 * C
 * C++
@@ -23,12 +23,12 @@ Aspiring Computer Science student focused on developing strong technical and pro
 * Python
 * Assembly Language
 
-###  Web Technologies
+### 🌐 Web Technologies
 
 * HTML
 * JavaScript
 
-###  Tools & Technologies
+###  🧰Tools & Technologies
 
 * Dev C++
 * VS Code
@@ -50,7 +50,7 @@ Aspiring Computer Science student focused on developing strong technical and pro
 
 ---
 
-##  Education
+## 🎓 Education
 
 * **Bachelor of Computer Science (BCS)**
   Fatima Jinnah Women University (2024 – Present)
@@ -71,22 +71,23 @@ Aspiring Computer Science student focused on developing strong technical and pro
 
 ---
 
-##  Leadership
+## 👩‍ Leadership
 
 * Demonstrated ability to take initiative in academic projects
 * Experience in managing tasks and guiding team members toward successful completion
 
 ---
 
-##  Currently Learning
+## 🌱 Currently Learning
 
 * Advanced programming concepts
 * Software development practices
 * Problem-solving and algorithm design
+* [My LinkedIn](https://www.linkedin.com/in/wania-yaqoob-090814340)
 
 ---
 
-##  Goals
+## 📌 Goals
 
 * Build impactful software projects
 * Gain practical industry experience
@@ -94,4 +95,4 @@ Aspiring Computer Science student focused on developing strong technical and pro
 
 ---
 
- *Feel free to explore my repositories and connect with me!*
+ *⭐Feel free to explore my repositories and connect with me!*
